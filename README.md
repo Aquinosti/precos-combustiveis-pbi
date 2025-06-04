@@ -7,7 +7,8 @@ Este projeto exibe uma análise visual dos preços de combustíveis (Etanol, Gas
 - Série histórica com evolução mensal
 - Mapa interativo de revendas por cidade
 - Tooltip com detalhes por revenda e bairro
-- Ranking dos estados com maiores e menores preços
+- Ranking dos estados (TOP 10) com maiores e menores preços
+- Ranking das cidades (TOP 5) com maiores e menores preços
 - Cálculo de variação percentual
 
 ## 🛠️ Ferramentas utilizadas
