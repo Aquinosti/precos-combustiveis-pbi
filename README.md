@@ -18,6 +18,9 @@ Este projeto exibe uma análise visual dos preços de combustíveis (Etanol, Gas
 - Dados públicos da ANP
 
 ![image](https://github.com/user-attachments/assets/df1d8689-2e9f-4bdd-95e7-a7f7838e1911)
+...
+![image](https://github.com/user-attachments/assets/3521ff9e-137c-454b-8115-5c2509c133fd)
+
 
 ## 👨‍💻 Desenvolvido por
 
