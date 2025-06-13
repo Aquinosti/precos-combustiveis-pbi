@@ -20,7 +20,11 @@ Este projeto exibe uma análise visual dos preços de combustíveis (Etanol, Gas
 
 ![image](https://github.com/user-attachments/assets/df1d8689-2e9f-4bdd-95e7-a7f7838e1911)
 ...
-![image](https://github.com/user-attachments/assets/3521ff9e-137c-454b-8115-5c2509c133fd)
+![image](https://github.com/user-attachments/assets/79555a3c-7c7e-4ab6-ac63-d6318a048687)
+...
+![image](https://github.com/user-attachments/assets/f8918d8a-b342-44d0-af0e-0310a08574f0)
+...
+![image](https://github.com/user-attachments/assets/ae1cd43d-66bc-43f3-8871-5d1d0a9ae20b)
 
 
 ## 👨‍💻 Desenvolvido por
